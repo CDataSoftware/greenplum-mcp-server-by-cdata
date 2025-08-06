@@ -1,7 +1,7 @@
 # greenplum-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Greenplum
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Greenplum (beta)](https://www.cdata.com/download/download.aspx?sku=SGZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Greenplum (beta)](https://www.cdata.com/download/download.aspx?sku=SGZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Greenplum supported by the [CData JDBC Driver for Greenplum](https://www.cdata.com/drivers/greenplum/jdbc).
 
